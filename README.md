@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects involving AWS, Java Full Stack development, and containerization using Docker and Kubernetes.
 - 📫 How to reach me:
   - Email: vpavanjd@gmail.com
-  - LinkedIn: [Pavan Kalyan Vasa](https://www.linkedin.com/in/pavan-v-3284a0323)
+  - LinkedIn: [Pavan Kalyan Vasa](https://www.linkedin.com/in/pavan-kalyan-vasa-3284a0323/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once fixed a bug that was causing sleepless nights and it turned out to be a missing semicolon. Debugging is like being a detective in a crime movie where you are also the murderer!
 
